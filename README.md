@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="./assets/panda-mascot.png" width="190" alt="HAK panda mascot"/>
-
 <h1>Hi, I'm Hafsa Ather Khan 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=94325C&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Python+%2B+Java+%2B+TypeScript;Shipping+AI-powered+SaaS+products;GDG+on+Campus+%40+SSUET" alt="Typing SVG" />
