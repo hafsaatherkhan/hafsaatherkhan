@@ -70,66 +70,66 @@ Full Stack Developer based in Karachi, Pakistan — currently pursuing my BS in 
 Multi-role civic platform with a Worker Portal. Built full auth end to end (JWT, Redis, OTP, refresh tokens, password recovery) and applied Facade / Strategy / Factory / Null Object patterns across an RBAC-secured system.
 
 <a href="https://drive.google.com/file/d/1WVPw6iEYm7Fqaih3Dc_ioslDwV5WRAZ3/view?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
-<a href="https://github.com/cyber01012/NeXora"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsa-ather-khan/NeXora"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/hafsaatherkhan/NeuralMail">✉️ NeuralMail</a> — AI-Powered SaaS Mail Platform**
-`Flask · Tailwind · JavaScript · SQLite3 · Gemini API`
+**<a href="https://github.com/hafsa-ather-khan/NeuralMail">✉️ NeuralMail</a> — AI-Powered SaaS Mail Platform**
+`Flask · Tailwind · JavaScript · Neon · Gemini API`
 
 Full-stack MVP generating 3-5 AI email drafts per request, cutting drafting time ~60-70%. Session-based auth with persistent login, plus resolved SQLite concurrency/locking under simulated multi-user load.
 
 <a href="https://drive.google.com/file/d/1UJoMA1O6qnziG-SqZN0os9oDvd6qJ1cB/view?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
-<a href="https://github.com/hafsaatherkhan/NeuralMail"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsa-ather-khan/NeuralMail"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/hafsaatherkhan/SkillmatriX">📊 SkillmatriX</a> — AI Career Platform** `🏆 2nd Position`
+**<a href="https://github.com/hafsa-ather-khan/SkillmatriX">📊 SkillmatriX</a> — AI Career Platform** `🏆 2nd Position`
 `Next.js · TypeScript · Spring Boot · MySQL · Gemini API`
 
 JWT-secured platform connecting a Next.js/TypeScript frontend to Spring Boot. Built OTP-based password recovery with expiry validation and retry-limit enforcement.
 
 <a href="https://drive.google.com/file/d/1qszyvQCeMqQ-LLpjrC3mNAj1KnxplKpy/view?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
-<a href="https://github.com/hafsaatherkhan/SkillmatriX"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsa-ather-khan/SkillmatriX"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/hafsaatherkhan/BolDo">🏠 BolDo</a> — Multi-Agent AI Home Services** `AISeekho 2026 Hackathon`
+**<a href="https://github.com/hafsa-ather-khan/BolDo">🏠 BolDo</a> — Multi-Agent AI Home Services** `AISeekho 2026 Hackathon`
 `Flutter · Dart · Firestore · Multi-Agent Architecture · Gemini API`
 
 Orchestrated a 6-agent AI workflow (Pricing, Booking, Notification, Follow-up, Dispute, Supervisor) in a hackathon sprint. Built the Pricing Agent for transparent dynamic pricing.
 
 <a href="https://drive.google.com/drive/folders/1JEGfjA6l_5gB1kkYRPQaMIw5E5D0WQzU?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
-<a href="https://github.com/hafsaatherkhan/BolDo"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsa-ather-khan/BolDo"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/hafsaatherkhan/FocusGuard">🎯 FocusGuard</a> — Browser Extension**
+**<a href="https://github.com/hafsa-ather-khan/FocusGuard">🎯 FocusGuard</a> — Browser Extension**
 `Manifest V3 · JavaScript · chrome.storage.local`
 
 Chrome/Edge extension enforcing daily time limits on distracting sites — live background usage timer, a blocking overlay with customizable motivational quotes, and daily usage stats shown on block.
 
 <a href="https://drive.google.com/file/d/1Il0M-7CeXjOA1KHroI1WVzhadHOo3MBv/view?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
-<a href="https://github.com/hafsaatherkhan/FocusGuard"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsa-ather-khan/FocusGuard"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-**<a href="https://github.com/hafsaatherkhan/LagunaBreezeLodge">🏨 Laguna Breeze Lodge</a> — Desktop Hotel Booking System** `🥈 2nd Position · Semester Project`
+**<a href="https://github.com/hafsa-ather-khan/LagunaBreezeLodge">🏨 Laguna Breeze Lodge</a> — Desktop Hotel Booking System** `🥈 2nd Position · Semester Project`
 `Java · JavaFX · SQLite`
 
 Role-based hotel booking system (Admin / User / Guest) built as a team semester project. Owned the backend & auth system end to end — full RBAC login/registration, Admin Portal (user management, booking history), and ~80% of the database schema/logic — plus integrated the backend with the JavaFX UI.
 
 <a href="https://drive.google.com/drive/folders/1v_jxqk0swiZiwPEO1m0HMyCcVLF5oBj3?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
-<a href="https://github.com/hafsaatherkhan/LagunaBreezeLodge"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsa-ather-khan/LagunaBreezeLodge"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 </tr>
@@ -142,19 +142,19 @@ Role-based hotel booking system (Admin / User / Guest) built as a team semester 
 ### 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsaatherkhan&show_icons=true&hide_border=true&bg_color=3B091E&title_color=E2B8CA&icon_color=94325C&text_color=D6D3D1&ring_color=94325C" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsaatherkhan&layout=compact&hide_border=true&bg_color=3B091E&title_color=E2B8CA&text_color=D6D3D1&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsa-ather-khan&show_icons=true&hide_border=true&bg_color=3B091E&title_color=E2B8CA&icon_color=94325C&text_color=D6D3D1&ring_color=94325C" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-ather-khan&layout=compact&hide_border=true&bg_color=3B091E&title_color=E2B8CA&text_color=D6D3D1&langs_count=8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsaatherkhan&hide_border=true&background=3B091E&ring=94325C&fire=94325C&currStreakLabel=E2B8CA&sideLabels=D6D3D1&currStreakNum=FCF3FA&sideNums=FCF3FA&dates=D6D3D1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-ather-khan&hide_border=true&background=3B091E&ring=94325C&fire=94325C&currStreakLabel=E2B8CA&sideLabels=D6D3D1&currStreakNum=FCF3FA&sideNums=FCF3FA&dates=D6D3D1" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🎓 Education & Certifications
 
-- **BS Software Engineering** — Sir Syed University of Engineering & Technology · Oct 2024 – Jul 2028 · CGPA 3.46/4.0
+- **BS Software Engineering** — Sir Syed University of Engineering & Technology · Oct 2024 – Jul 2028 · CGPA 3.55/4.0
 - **CS50: Introduction to AI with Python** — Harvard University (edX) · *in progress*
 - **CS50: Introduction to Cybersecurity** — Harvard University (edX) · *in progress*
 
@@ -169,7 +169,7 @@ Role-based hotel booking system (Admin / User / Guest) built as a team semester 
 
 ### 📫 Let's Connect
 
-<a href="https://github.com/hafsaatherkhan"><img src="https://img.shields.io/badge/GitHub-3B091E?style=for-the-badge&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsa-ather-khan"><img src="https://img.shields.io/badge/GitHub-3B091E?style=for-the-badge&logo=github&logoColor=E2B8CA" /></a>
 <a href="https://linkedin.com/in/hafsa-ather-khan"><img src="https://img.shields.io/badge/LinkedIn-3B091E?style=for-the-badge&logo=linkedin&logoColor=E2B8CA" /></a>
 <a href="mailto:hafsaatherkhan@gmail.com"><img src="https://img.shields.io/badge/Email-3B091E?style=for-the-badge&logo=gmail&logoColor=E2B8CA" /></a>
 
