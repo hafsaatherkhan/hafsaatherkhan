@@ -14,10 +14,9 @@
 
 ### 🧠 About Me
 
-Full Stack Developer based in Karachi, Pakistan — currently pursuing my BS in Software Engineering at Sir Syed University of Engineering & Technology (CGPA 3.46/4.0), and leading Digital Operations for Google Developer Groups on Campus, SSUET.
-
+Full Stack Developer based in Karachi, Pakistan — currently pursuing my BS in Software Engineering at Sir Syed University of Engineering & Technology (CGPA 3.55/4.0).
 - 🔭 Shipping full-stack products end to end — API → Database → UI → Auth
-- 🤖 Deep in AI-integrated SaaS — Gemini API, prompt engineering, AI-assisted development
+- 🤖 Exploring in AI-integrated SaaS — Gemini API, prompt engineering, AI-assisted development
 - 🎯 Long-term goal: founding my own SaaS product
 - 🔐 Especially drawn to backend architecture & auth systems — JWT, OTP, RBAC, sessions
 - 🛡️ Exploring cybersecurity fundamentals — CS50: Introduction to Cybersecurity *(in progress)*
@@ -50,7 +49,6 @@ Full Stack Developer based in Karachi, Pakistan — currently pursuing my BS in 
   <br/>
   <img src="https://img.shields.io/badge/JWT-3B091E?style=for-the-badge&logo=jsonwebtokens&logoColor=E2B8CA" />
   <img src="https://img.shields.io/badge/Redis-3B091E?style=for-the-badge&logo=redis&logoColor=E2B8CA" />
-  <img src="https://img.shields.io/badge/Docker-3B091E?style=for-the-badge&logo=docker&logoColor=E2B8CA" />
   <img src="https://img.shields.io/badge/Gemini%20API-3B091E?style=for-the-badge&logo=googlegemini&logoColor=E2B8CA" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-3B091E?style=for-the-badge&logo=github&logoColor=E2B8CA" />
   <img src="https://img.shields.io/badge/Chrome%20Extension-3B091E?style=for-the-badge&logo=googlechrome&logoColor=E2B8CA" />
@@ -64,6 +62,17 @@ Full Stack Developer based in Karachi, Pakistan — currently pursuing my BS in 
 <tr>
 <td width="50%" valign="top">
 
+**<a href="https://github.com/hafsaatherkhan/flyrank-capstone-metering-billing">⚡ FlyRank</a> — Usage Metering & Subscription Billing Engine**
+`FastAPI · Next.js · PostgreSQL (Neon) · Polar.sh`
+
+Multi-tenant, production-grade metering & billing engine. Implements idempotent writes (`Idempotency-Key`), pessimistic row-locking (`SELECT FOR UPDATE`) for strict monthly quotas under high concurrency, integer micro-USD pricing, Polar.sh webhook sync & reconciliation, and hardened auth (JWT, OTP rate-limiting, Google OAuth).
+
+<a href="https://hisaabledger.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-0F172A?style=flat-square&logoColor=38BDF8" /></a>
+<a href="https://github.com/hafsaatherkhan/flyrank-capstone-metering-billing"><img src="https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=38BDF8" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 **<a href="https://github.com/cyber01012/NeXora">🌪️ NeXora</a> — Disaster & Civic Management System**
 `React · Vite · Spring Boot · PostgreSQL · Redis · Gemini API`
 
@@ -71,6 +80,17 @@ Multi-role civic platform with a Worker Portal. Built full auth end to end (JWT,
 
 <a href="https://drive.google.com/file/d/1WVPw6iEYm7Fqaih3Dc_ioslDwV5WRAZ3/view?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
 <a href="https://github.com/hafsa-ather-khan/NeXora"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+**<a href="https://github.com/hafsaatherkhan/Bawarchee">🍳 Bawarchee</a> — AI Pantry & Culinary Assistant**
+`Next.js 14 · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Gemini 2.5 Flash`
+
+Intelligent pantry manager featuring Gemini-powered receipt OCR for automatic inventory ingestion, household portion-scaled recipe generation, conversational culinary chat, and real-time inventory deduction with Supabase SSR & TOTP 2FA.
+
+<a href="https://github.com/hafsaatherkhan/Bawarchee"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -108,19 +128,7 @@ Orchestrated a 6-agent AI workflow (Pricing, Booking, Notification, Follow-up, D
 <a href="https://github.com/hafsa-ather-khan/BolDo"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
-<td width="50%" valign="top">
 
-**<a href="https://github.com/hafsa-ather-khan/FocusGuard">🎯 FocusGuard</a> — Browser Extension**
-`Manifest V3 · JavaScript · chrome.storage.local`
-
-Chrome/Edge extension enforcing daily time limits on distracting sites — live background usage timer, a blocking overlay with customizable motivational quotes, and daily usage stats shown on block.
-
-<a href="https://drive.google.com/file/d/1Il0M-7CeXjOA1KHroI1WVzhadHOo3MBv/view?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
-<a href="https://github.com/hafsa-ather-khan/FocusGuard"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
-
-</td>
-</tr>
-<tr>
 <td colspan="2" valign="top">
 
 **<a href="https://github.com/hafsa-ather-khan/LagunaBreezeLodge">🏨 Laguna Breeze Lodge</a> — Desktop Hotel Booking System** `🥈 2nd Position · Semester Project`
@@ -135,9 +143,6 @@ Role-based hotel booking system (Admin / User / Guest) built as a team semester 
 </tr>
 </table>
 
-<sub>🎨 **AI Interior Design Assistant** (FastAPI · Supabase · Gemini API) — on hold, not currently featured.</sub>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 📈 GitHub Stats
 
@@ -169,10 +174,9 @@ Role-based hotel booking system (Admin / User / Guest) built as a team semester 
 
 ### 📫 Let's Connect
 
-<a href="https://github.com/hafsa-ather-khan"><img src="https://img.shields.io/badge/GitHub-3B091E?style=for-the-badge&logo=github&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsaatherkhan"><img src="https://img.shields.io/badge/GitHub-3B091E?style=for-the-badge&logo=github&logoColor=E2B8CA" /></a>
 <a href="https://linkedin.com/in/hafsa-ather-khan"><img src="https://img.shields.io/badge/LinkedIn-3B091E?style=for-the-badge&logo=linkedin&logoColor=E2B8CA" /></a>
 <a href="mailto:hafsaatherkhan@gmail.com"><img src="https://img.shields.io/badge/Email-3B091E?style=for-the-badge&logo=gmail&logoColor=E2B8CA" /></a>
 
-<sub>🐼 designed & built by Hafsa</sub>
 
 </div>
