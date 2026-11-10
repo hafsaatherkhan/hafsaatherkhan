@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hafsa Ather Khan 👋</h1>
+<h1>Hi, I'm Hafsa Ather Khan </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=94325C&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Python+%2B+Java+%2B+TypeScript;Shipping+AI-powered+SaaS+products" alt="Typing SVG" />
 
@@ -67,8 +67,8 @@ Full Stack Developer based in Karachi, Pakistan — currently pursuing my BS in 
 
 Multi-tenant, production-grade metering & billing engine. Implements idempotent writes (`Idempotency-Key`), pessimistic row-locking (`SELECT FOR UPDATE`) for strict monthly quotas under high concurrency, integer micro-USD pricing, Polar.sh webhook sync & reconciliation, and hardened auth (JWT, OTP rate-limiting, Google OAuth).
 
-<a href="https://hisaabledger.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-0F172A?style=flat-square&logoColor=38BDF8" /></a>
-<a href="https://github.com/hafsaatherkhan/flyrank-capstone-metering-billing"><img src="https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=38BDF8" /></a>
+<a href="https://hisaabledger.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-3B091E?style=flat-square&logoColor=E2B8CA" /></a>
+<a href="https://github.com/hafsaatherkhan/flyrank-capstone-metering-billing"><img src="https://img.shields.io/badge/Code-3C1C11?style=flat-square&logo=github&logoColor=E2B8CA" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -147,12 +147,12 @@ Role-based hotel booking system (Admin / User / Guest) built as a team semester 
 ### 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsa-ather-khan&show_icons=true&hide_border=true&bg_color=3B091E&title_color=E2B8CA&icon_color=94325C&text_color=D6D3D1&ring_color=94325C" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-ather-khan&layout=compact&hide_border=true&bg_color=3B091E&title_color=E2B8CA&text_color=D6D3D1&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsaatherkhan&show_icons=true&hide_border=true&bg_color=3B091E&title_color=E2B8CA&icon_color=94325C&text_color=D6D3D1&ring_color=94325C" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsaatherkhan&layout=compact&hide_border=true&bg_color=3B091E&title_color=E2B8CA&text_color=D6D3D1&langs_count=8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-ather-khan&hide_border=true&background=3B091E&ring=94325C&fire=94325C&currStreakLabel=E2B8CA&sideLabels=D6D3D1&currStreakNum=FCF3FA&sideNums=FCF3FA&dates=D6D3D1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsaatherkhan&hide_border=true&background=3B091E&ring=94325C&fire=94325C&currStreakLabel=E2B8CA&sideLabels=D6D3D1&currStreakNum=FCF3FA&sideNums=FCF3FA&dates=D6D3D1" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -160,13 +160,40 @@ Role-based hotel booking system (Admin / User / Guest) built as a team semester 
 ### 🎓 Education & Certifications
 
 - **BS Software Engineering** — Sir Syed University of Engineering & Technology · Oct 2024 – Jul 2028 · CGPA 3.55/4.0
-- **CS50: Introduction to AI with Python** — Harvard University (edX) · *in progress*
-- **CS50: Introduction to Cybersecurity** — Harvard University (edX) · *in progress*
+- **Generative and Agentic AI Application Developer Certificate** — Pak Angels · Cohort 11, Aug – Oct 2026 · Top Performer · Issued Oct 17, 2026 · ID: PAGAI-TP-1560
+- **Anthropic: 11 course certifications** (Jul – Oct 2026)
+  - Claude 101
+  - Claude Code 101
+  - Introduction to Claude Cowork
+  - AI Capabilities and Limitations
+  - AI Fluency: Framework & Foundations
+  - AI Fluency for Students
+  - AI Fluency for Small Businesses
+  - AI Fluency for Nonprofits
+  - AI Fluency for Educators
+  - AI Fluency for Builders
+  - Teaching AI Fluency
 
-### 🌱 Leadership
+### 🏆 Hackathons & Extra-Curriculars
 
-- **Digital Operations Team Lead** — Google Developer Groups on Campus, SSUET *(Nov 2025 – Present)*
+- **Digital Operations Team Lead** — Google Developer Groups on Campus, SSUET *(Nov 2025 – Oct 2026)*
 - **Graphic Design Team Member** — IEEE SSUET Student Branch *(Aug 2025 – Nov 2025)*
+
+**Hackathons**
+- **AI Hackathon, Devmarketplace** — [Bawarchee](https://github.com/hafsaatherkhan/Bawarchee)
+  - AI-powered kitchen assistant (Next.js, TypeScript, Supabase, Gemini API). Team of 3.
+  - My part: authentication, TOTP two-factor authentication, profile onboarding, and the initial version of the dashboard.
+- **PAK ANGELS Hackathon (course-based)** — [OfficeFlow AI](https://github.com/hafsaatherkhan/OfficeFlowAI) · [Live demo](https://office-flow-ai.vercel.app/)
+  - Multi-agent office helpdesk (Next.js, TypeScript, Prisma, PostgreSQL, Gemini API). Team project.
+  - My part: project foundation, database schema and seed data, server-side Gemini integration, and the tool registry.
+- **AISeekho 2026 Hackathon, GDG** — [BolDo](https://github.com/hafsaatherkhan/BolDo)
+  - Multi-agent home service orchestrator (Firebase).
+- **Women Tech Quest'26 – Build With AI, 10 Pearls Pakistan** — Bill Decoder
+  - AI-powered utility bill decoder (CLI app).
+- **ELXR'26 Hackathon, KSBL Entrepreneurship Society** — Pak Stock AI
+  - Warehouse management prototype.
+- **National AI Hackathon 2026, atomcamp** — BasiraBlue
+  - Emergency management prototype.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
