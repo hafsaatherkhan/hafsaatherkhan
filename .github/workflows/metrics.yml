@@ -1,0 +1,69 @@
+
+name: GitHub Metrics
+
+on:
+  # Automatically update every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual updates from GitHub Actions
+  workflow_dispatch:
+
+  # Update when README or workflow changes
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/metrics.yml"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+
+        with:
+          # Authentication
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output
+          filename: github-metrics.svg
+          output_action: commit
+          committer_message: "Update GitHub metrics [Skip GitHub Action]"
+
+          # General profile information
+          user: hafsaatherkhan
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # Visual appearance
+          config_display: large
+          config_timezone: Asia/Karachi
+          config_animations: yes
+
+          # Programming language statistics
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_colors: github
+
+          # Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # GitHub achievements
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+
+          # Coding habits and consistency
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
