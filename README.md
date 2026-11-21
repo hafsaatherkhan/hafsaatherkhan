@@ -204,20 +204,6 @@ A backend capstone project developed during the FlyRank AI internship.
 ---
 
 <!-- ====================================================== -->
-<!--                   GITHUB ACHIEVEMENTS                  -->
-<!-- ====================================================== -->
-
-## 07 / GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hafsaatherkhan&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
-<!-- ====================================================== -->
 <!--                 EXPERIENCE & EDUCATION                 -->
 <!-- ====================================================== -->
 
