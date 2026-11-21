@@ -59,11 +59,11 @@ jobs:
           plugin_isocalendar_duration: half-year
 
           # GitHub achievements
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: detailed
 
           # Coding habits and consistency
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 200
           plugin_habits_days: 30
           plugin_habits_charts: yes
