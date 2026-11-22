@@ -71,8 +71,6 @@ Each technology is displayed with its logo and a compact label for quick scannin
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="38" alt="Node.js"/><br/><sub>Node.js</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="38" alt="Express"/><br/><sub>Express</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="38" alt="Flask"/><br/><sub>Flask</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="38" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="38" alt="Next.js"/><br/><sub>Next.js</sub></td>
@@ -111,7 +109,6 @@ Each technology is displayed with its logo and a compact label for quick scannin
 <p>
   <img src="https://img.shields.io/badge/Agentic_AI-3a0e0f?style=flat-square" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/LLM_Engineering-3a0e0f?style=flat-square" alt="LLM Engineering"/>
-  <img src="https://img.shields.io/badge/Cloud_Engineering-3a0e0f?style=flat-square" alt="Cloud Engineering"/>
   <img src="https://img.shields.io/badge/Cybersecurity-3a0e0f?style=flat-square" alt="Cybersecurity"/>
 </p>
 
@@ -122,14 +119,6 @@ Each technology is displayed with its logo and a compact label for quick scannin
 <!-- ====================================================== -->
 
 ## 03 / Featured Projects
-
-### MomentRa — Personal Operating System
-
-A personal operating system designed to help users organize their time, goals and different areas of life.
-
-- Built around Time Vault and Worlds.
-- Designed to bring personal organization into one cohesive experience.
-- **Stack:** MERN
 
 ### NeuralMail — AI-Powered SaaS Email Platform
 
