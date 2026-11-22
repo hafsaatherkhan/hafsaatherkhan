@@ -198,27 +198,15 @@ A backend capstone project developed during the FlyRank AI internship.
   </tr>
 </table>
 
-<table width="100%" border="1">
-  <tr><td align="center" colspan="3"><strong>CONTRIBUTION STREAK &amp; ACTIVITY</strong></td></tr>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Streak Stats</strong><br/><br/>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=hafsaatherkhan&theme=dark&background=3a0e0f&hide_border=true&ring=dea695&fire=dea695&currStreakLabel=fcefe3&sideLabels=fcefe3&currStreakNum=fcefe3&sideNums=fcefe3&dates=dea695" width="100%" alt="GitHub contribution streak"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <strong>Contribution Graph</strong><br/><br/>
-      <a href="https://github.com/hafsaatherkhan">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafsaatherkhan&bg_color=3a0e0f&color=fcefe3&line=dea695&point=fcefe3&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <strong>Coding Metrics</strong><br/><br/>
-      <img src="./github-metrics.svg" width="100%" alt="GitHub coding metrics and insights"/>
-    </td>
-  </tr>
-</table>
+### Contribution Streak
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=hafsaatherkhan&theme=dark&background=3a0e0f&hide_border=true&ring=dea695&fire=dea695&currStreakLabel=fcefe3&sideLabels=fcefe3&currStreakNum=fcefe3&sideNums=fcefe3&dates=dea695"/>
+</a>
+
+</div>
 
 ---
 
