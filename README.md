@@ -203,9 +203,23 @@ A backend capstone project developed during the FlyRank AI internship.
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=hafsaatherkhan&theme=dark&background=3a0e0f&hide_border=true&ring=dea695&fire=dea695&currStreakLabel=fcefe3&sideLabels=fcefe3&currStreakNum=fcefe3&sideNums=fcefe3&dates=dea695"/>
+  <img src="https://streak-stats.demolab.com?user=hafsaatherkhan&theme=dark&background=3a0e0f&hide_border=true&ring=dea695&fire=dea695&currStreakLabel=fcefe3&sideLabels=fcefe3&currStreakNum=fcefe3&sideNums=fcefe3&dates=dea695" alt="GitHub contribution streak"/>
 </a>
 
+</div>
+
+### Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/hafsaatherkhan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafsaatherkhan&bg_color=3a0e0f&color=fcefe3&line=dea695&point=fcefe3&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+  </a>
+</div>
+
+### Coding Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub coding metrics and insights"/>
 </div>
 
 ---
