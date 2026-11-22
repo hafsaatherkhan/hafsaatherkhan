@@ -180,9 +180,8 @@ A backend capstone project developed during the FlyRank AI internship.
 
 ## 04 / GitHub Statistics
 
-### Developer Overview
-
-<table>
+<table width="100%" border="1">
+  <tr><td align="center" colspan="2"><strong>DEVELOPER OVERVIEW</strong></td></tr>
   <tr>
     <td align="center" width="50%">
       <strong>GitHub Stats</strong><br/><br/>
@@ -199,9 +198,8 @@ A backend capstone project developed during the FlyRank AI internship.
   </tr>
 </table>
 
-### Contribution Streak & Activity
-
-<table>
+<table width="100%" border="1">
+  <tr><td align="center" colspan="3"><strong>CONTRIBUTION STREAK &amp; ACTIVITY</strong></td></tr>
   <tr>
     <td align="center" width="33%">
       <strong>Streak Stats</strong><br/><br/>
